@@ -1,0 +1,31 @@
+
+.title{
+    text-align: center;
+}
+.title img{
+    width:30%;    
+}
+
+.content{
+    font-size: 16px;
+}
+
+.content1{
+    background-image: url("b.jpg");
+}
+
+.content1-1{
+    text-align: center;
+}
+.content1-1 img{
+    padding-top: 3%;
+    width:90%
+}
+
+.content1-2{
+    text-align: center;
+}
+.content1-2 img{
+    margin-top: -3%;
+    width:90%
+}
