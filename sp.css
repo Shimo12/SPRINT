@@ -12,25 +12,25 @@
 
 .content1{
     background-image: url("b.jpg");
-    padding-bottom: 3%;
+    padding-bottom: 5%;
 }
 .content2{
-    background-image: url("b.jpg");
+    background-image: url("c.png");
 }
+.content3{
+    background-image: url("b.jpg");
+    padding-bottom: 5%;
+}
+.content4{
+    background-image: url("c.png");
+}
+
 
 .content1-1{
     text-align: center;
+    padding-top: 5%;
 }
 .content1-1 img{
-    padding-top: 3%;
-    width:90%
-}
-
-.content1-2{
-    text-align: center;
-}
-.content1-2 img{
-    margin-top: -3%;
     width:90%
 }
 
@@ -39,4 +39,25 @@
 }
 
 .content2-1 img{
+    padding-top: 5%;
+    padding-bottom: 5%;
     width:90%}
+
+.content3-1{
+    text-align: center;
+    }
+    
+.content3-1 img{
+        padding-top: 5%;
+        padding-bottom: 5%;
+        width:90%}
+
+        .content4-1{
+            text-align: center;
+        }
+        
+        .content4-1 img{
+            padding-top: 5%;
+            padding-bottom: 5%;
+            width:90%}
+        
