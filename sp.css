@@ -12,6 +12,10 @@
 
 .content1{
     background-image: url("b.jpg");
+    padding-bottom: 3%;
+}
+.content2{
+    background-image: url("b.jpg");
 }
 
 .content1-1{
@@ -29,3 +33,10 @@
     margin-top: -3%;
     width:90%
 }
+
+.content2-1{
+    text-align: center;
+}
+
+.content2-1 img{
+    width:90%}
