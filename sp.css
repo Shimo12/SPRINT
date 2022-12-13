@@ -52,12 +52,34 @@
         padding-bottom: 5%;
         width:90%}
 
-        .content4-1{
-            text-align: center;
-        }
-        
-        .content4-1 img{
-            padding-top: 5%;
-            padding-bottom: 5%;
+.content4-1{
+    text-align: center;
+    }
+
+.content4-1 img{
+        padding-top: 5%;
+        padding-bottom: 5%;
             width:90%}
+
+.content5{
+text-align: center;}
+            
+.content5-1 img{
+                width:100%}
+
+.content6{
+text-align: center;
+}
+                                
+.content6-1 img{
+width:100%;
+}
+
+.card{
+    text-align: center;
+    margin-top: -35%;
+}
         
+.card img{
+    width: 25%;
+}
